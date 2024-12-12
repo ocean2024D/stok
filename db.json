@@ -1,0 +1,67 @@
+{
+    "products": [
+      {
+        "id": "11",
+        "title": "GoPro HERO12 Action Camera",
+        "price": "",
+        "currency": "€",
+        "year": "2024",
+        "stock": 25,
+        "imgSrc": "https://m.media-amazon.com/images/I/61l2P9RV24L._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "12",
+        "title": "Apple AirPods Pro (2nd Gen)",
+        "price": 249.99,
+        "currency": "€",
+        "year": "2024",
+        "stock": "",
+        "imgSrc": "https://m.media-amazon.com/images/I/41elCMXwakL._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "13",
+        "title": "Nintendo Switch OLED Model",
+        "price": 359.99,
+        "currency": "€",
+        "year": "2024",
+        "stock": 40,
+        "imgSrc": "https://m.media-amazon.com/images/I/71eVf1+jn6L._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "14",
+        "title": "Fitbit Charge 6",
+        "price": 179.95,
+        "currency": "€",
+        "year": "2023",
+        "stock": 87,
+        "imgSrc": "https://m.media-amazon.com/images/I/61Te3kS75nL._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "15",
+        "title": "Microsoft Surface Pro 9",
+        "price": 1299.99,
+        "currency": "€",
+        "year": "2024",
+        "stock": 22,
+        "imgSrc": "https://m.media-amazon.com/images/I/61T3CqIg3-L._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "16",
+        "title": "Asus ROG Strix Gaming Laptop",
+        "price": 2399.99,
+        "currency": "€",
+        "year": "2024",
+        "stock": 10,
+        "imgSrc": "https://m.media-amazon.com/images/I/71DH3FLtlcL._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": "6fad",
+        "title": "qqqqq",
+        "price": "",
+        "currency": "",
+        "year": "",
+        "stock": "",
+        "imgSrc": ""
+      }
+    ]
+  }
