@@ -20,7 +20,7 @@ function EditProduct() {
     const fetchProduct = async () => {
       try {
         const response = await axios.get(
-          `http://localhost:3000/products/${id}`
+          `https://67595b8e60576a194d147676.mockapi.io/products/${id}`
         );
         setProduct(response.data); // Veriyi state'e set ediyoruz
       } catch (error) {
@@ -41,7 +41,7 @@ function EditProduct() {
   const handleSave = async () => {
     try {
       // Güncellenmiş ürün verisini API'ye kaydetme
-      await axios.put(`http://localhost:3000/products/${id}`, product);
+      await axios.put(`https://67595b8e60576a194d147676.mockapi.io/products/${id}`, product);
       navigate("/ShowProducts"); // Kaydedildikten sonra ürün listesine yönlendiriyoruz
     } catch (error) {
       console.error("Error saving product:", error);

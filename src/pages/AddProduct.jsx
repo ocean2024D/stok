@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import axios from "axios";
 
-const Base_Url = "http://localhost:3000";
+const Base_Url = "https://67595b8e60576a194d147676.mockapi.io";
 function AddProduct({ getProducts }) {
   const [newProduct, setNewProduct] = useState({
     title: "",

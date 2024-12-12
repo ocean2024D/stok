@@ -3,7 +3,7 @@ import axios from "axios";
 import Product from "../Components/Product";
 
 function ShowProducts() {
-  const Base_Url = "http://localhost:3000";
+  const Base_Url = "https://67595b8e60576a194d147676.mockapi.io";
 
   const [products, setProducts] = useState([]);
   const [newProduct, setNewProduct] = useState({ title: "" });
